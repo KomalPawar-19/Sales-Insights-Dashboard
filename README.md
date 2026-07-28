@@ -16,7 +16,7 @@ This project is based on the **Codebasics Sales Insights** case study. It demons
 
 ## 📈 Dashboard Preview
 
-![Sales Insights Dashboard](Dashboard.png)
+![Sales Insights Dashboard](Dashboard3.png)
 
 ---
 
